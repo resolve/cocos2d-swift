@@ -56,6 +56,7 @@ enum {
 	kCCDeviceiPhoneRetinaDisplay,
 	kCCDeviceiPhone5,
 	kCCDeviceiPhone5RetinaDisplay,
+    kCCDeviceiPhoneRetinaHDDisplay,
 	kCCDeviceiPad,
 	kCCDeviceiPadRetinaDisplay,
 
